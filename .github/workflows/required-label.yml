@@ -9,5 +9,5 @@ jobs:
       - uses: mheap/github-action-required-labels@31ed2e38a71fa1a9e05e0b5a960e4548c304d1ef
         with:
           mode: exactly
-          count: 0
+          count: 1
           labels: "Release Approved :)"
